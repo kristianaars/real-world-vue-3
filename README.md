@@ -1,4 +1,4 @@
-# real_world_vue_3_3
+# real_world_vue_3
 
 ## Project setup
 ```
